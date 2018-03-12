@@ -1,0 +1,27 @@
+
+
+h1{
+    color: #000080;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+
+}
+
+body{
+    color: #3E3E3E;
+    font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+    color: green;
+}
+
+img { 
+    width: 25%
+}
+
+.image {
+    width: 25%;
+    margin: auto;
+    
+}
